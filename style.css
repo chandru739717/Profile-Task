@@ -1,0 +1,67 @@
+.container{
+    width: 400px;
+    height: 550px;
+    background-color: rgb(46, 43, 43);
+    margin-left: 150px;
+    position: relative;
+}
+#off{
+    background-color: rgb(179, 140, 14);
+    display: inline;
+    padding: 3px;
+    position: absolute;
+    margin: 30px;
+    border-radius: 6%;
+}
+ img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    padding: 4px;
+    margin: 70px;
+    margin-left: 120px;
+    margin-top: 50px;
+    display: inline;
+    border:4px solid white;
+}
+h3{
+    padding-left: 170px;
+    padding-top: 60px;
+    color: rgb(121, 113, 113);
+}
+#img{
+    height: 160px;
+}
+h2{
+    padding-left: 150px;
+    color: rgb(121, 113, 113);
+}
+p{
+    padding-left: 130px;
+    font-size: 36;
+    color: rgb(121, 113, 113);
+}
+#mes{
+    margin-left: 80px;
+    border-radius: 5%;
+    color: white;
+    background-color: blue;
+    width: 100px;
+    height: 30px;
+    border: transparent;
+}
+#follow{
+    margin-left:20px ;
+    border-radius: 5%;
+    color: white;
+    background-color:transparent;
+    width: 100px;
+    height: 30px;
+    border: 2px solid blue;
+}
+#skill{
+    display: inline;
+    border: 2px solid rgb(66, 65, 65);
+    margin: 10px;
+    padding: 2px;
+}
